@@ -67,6 +67,7 @@ func newProvider(
 		telemetrylogs.LogResourceKeysTblName,
 		telemetryaudit.DBName,
 		telemetryaudit.LogsV2TableName,
+		telemetryaudit.TagAttributesV2TableName,
 		telemetryaudit.LogAttributeKeysTblName,
 		telemetryaudit.LogResourceKeysTblName,
 		telemetrymetadata.DBName,
